@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { personalInfo } from '../data';
 import { GraduationCap, Award, Calendar, FolderCheck, Trophy, Sparkles } from 'lucide-react';
-
+import profil from "../assets/image/profil.43.51.jpeg";
 export default function About() {
   const containerVariants = {
     hidden: { opacity: 0 },
